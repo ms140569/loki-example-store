@@ -1,3 +1,0 @@
-subdir
-subdir1
-subdir_wrong
